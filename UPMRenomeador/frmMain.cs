@@ -294,8 +294,6 @@ namespace UPMRenomeador
                     {
                         System.IO.File.Move(caminhoCompleto, caminhoCompletoNovo);    
                     }
-
-                    
                 }
             }
 
@@ -356,7 +354,6 @@ namespace UPMRenomeador
 
                 LerPasta(caixaSelecaoPasta.SelectedPath);
             }
-
         }
 
         private void dataGridView1_SelectionChanged(object sender, EventArgs e)
