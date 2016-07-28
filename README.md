@@ -1,5 +1,7 @@
 # UPMRenomeador  
   
+![UPMRenomeador](./assets/UPM.png)  
+  
 O UPMRenomeador é um utilitário que permite renomear vários arquivos de uma única vez, com a possibilidade de aplicar filtros e numeradores,  
 torna a tarefa de renomear vários arquivos de uma única vez muito fácil, ágil e segura, pois você pode aplicar todas as modificações na lista e  
 somente após as alterações realizadas e conferidas você pode aplicá-las nos arquivos.  
